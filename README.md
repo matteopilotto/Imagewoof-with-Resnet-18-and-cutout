@@ -1,0 +1,1 @@
+# Imagewoof-with-Resnet-18-and-cutout
